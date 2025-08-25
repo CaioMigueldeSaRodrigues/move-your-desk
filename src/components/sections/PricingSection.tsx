@@ -48,7 +48,6 @@ const plans = [
       "Webhooks personalizados", 
       "Dashboard administrativo",
       "Relatórios executivos",
-      "Treino para recuperação de diástase",
       "Consultoria especializada",
       "Implementação dedicada"
     ],
